@@ -6,7 +6,7 @@ This project is focused on predicting breast cancer using a machine learning mod
 
 - **`breast-cancer.ipynb`**: The Jupyter notebook containing the code.
 - **`README.md`**: Project documentation.
-- **`data/`**: Directory containing the breast cancer dataset (not included in the repository; users should download it from [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data)).
+- **`datasets/`**: Directory containing the breast cancer dataset (not included in the repository; users should download it from [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data)).
 ## Steps Followed
 
 1. **Data Loading**:
